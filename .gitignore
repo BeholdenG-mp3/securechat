@@ -1,0 +1,7 @@
+certs/
+transcripts/
+__pycache__/
+.env
+.venv/
+*.key
+*.crt
